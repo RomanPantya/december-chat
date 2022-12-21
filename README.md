@@ -1,7 +1,10 @@
+# homework
 
-# About
-
-
-> _This is amateur library. Use it on your own risk_
-
-// TODO fill README.md
+* ## DEC-001
+  ### ☐ Recall [EventEmitter](https://nodejs.org/api/events.html)
+  ### ☐ Read [Socket.io](https://socket.io)
+  ### ☐ Mark these items with `☑` icon
+  ### ☐ Make PR
+    * the name of the branch should be in format `(feature|fix)/task`
+    * PR name - `TASK: message`
+    * tag reviewer
